@@ -1,7 +1,4 @@
 # mel-spectrogram-animal-sound-classification
-This project leverages deep learning to classify different animal species based on their acoustic signals. By transforming raw 1D audio waveforms into 2D Mel-Spectrogram images, the project utilizes a Convolutional Neural Network (CNN) to effectively extract audio features and recognize distinct animal sound patterns with high accuracy.
-
-# Mel-Spectrogram Animal Sound Classification
 This project aims to classify various animal sounds using digital signal processing and deep learning techniques. The core approach involves converting raw audio data into 2D visual representations called **Mel-Spectrograms**, which are then evaluated and classified using a neural network model.
 
 ## Project Description
