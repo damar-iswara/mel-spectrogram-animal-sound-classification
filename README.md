@@ -1,6 +1,8 @@
 # mel-spectrogram-animal-sound-classification
 This project aims to classify various animal sounds using digital signal processing and deep learning techniques. The core approach involves converting raw audio data into 2D visual representations called **Mel-Spectrograms**, which are then evaluated and classified using a neural network model.
 
+kaggle-link: https://www.kaggle.com/code/damariswara/mel-spectogram-animal-sound-classification
+
 ## Project Description
 
 Animal sounds possess unique frequency and amplitude patterns. Instead of processing the audio data in its 1D waveform state, this project transforms the audio into 2D images (Mel-Spectrograms). This visual representation allows us to leverage standard Computer Vision architectures to recognize specific sound patterns of different animals with higher accuracy.
